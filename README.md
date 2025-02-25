@@ -1,6 +1,10 @@
 # 2DSnakeGame_love2d
 A Basic 2D Snake Game made with Love2D (Lua)
 
+Note: your file structure should look like this:
+music\music.mp3
+main.lua
+
 # How to Package Your Game with Love2D
 
 Follow these steps to create a standalone executable for your Love2D game:
