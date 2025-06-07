@@ -1,4 +1,7 @@
 # 2DSnakeGame_love2d
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 A Basic 2D Snake Game made with Love2D (Lua)
 
 Note: your file structure should look like this:
